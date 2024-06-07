@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anukriti Choudhary</h1>
-<h3 align="center">A passionate game developer from India</h3>
+<h3 align="center">A passionate Game Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QAIGME2QHqkAAAAj/capoo-gaming.gif">
 
 - 📫 How to reach me **chyanukriti@gmail.com**
@@ -16,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anukritich&show_icons=true&locale=en&layout=compact" alt="anukritich" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anukritich&show_icons=true&locale=en" alt="anukritich" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anukritich&" alt="anukritich" /></p>
