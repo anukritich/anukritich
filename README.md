@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anukriti Choudhary</h1>
-<h3 align="center">A passionate game developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/QAIGME2QHqkAAAAj/capoo-gaming.gif">
 
