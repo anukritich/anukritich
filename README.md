@@ -7,9 +7,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anukritich&label=Profile%20views&color=0e75b6&style=flat" alt="anukritich" />
 </p>
-<p>
-   🔭 I’m currently working on Game Development 
-</p>
 
  📫 How to reach me **chyanukriti@gmail.com**
 
