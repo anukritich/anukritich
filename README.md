@@ -60,8 +60,4 @@
   </p>
 </div>
 
-<div style="background-color: grey; padding: 10px; border-radius: 5px; border: 2px solid #ff69b4; margin-bottom: 20px;">
-  <p style="display: flex; align-items: center;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anukritich&show_icons=true&locale=en" alt="anukritich" />
-  </p>
-</div>
+
